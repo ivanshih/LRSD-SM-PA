@@ -8,7 +8,9 @@
 , *Medical Image Analysis* 38 (2017) 30-49,  [http://dx.doi.org/10.1016/j.media.2017.02.008](http://dx.doi.org/10.1016/j.media.2017.02.008).
 
 Free download link until April 26, 2017
-[https://authors.elsevier.com/a/1Ug8N4rfPluGej](https://authors.elsevier.com/a/1Ug8N4rfPluGej)
+
+>[https://authors.elsevier.com/a/1Ug8N4rfPluGej](https://authors.elsevier.com/a/1Ug8N4rfPluGej)
+
 (PS: No sign up or registration is needed - just click and read!
 )
 
